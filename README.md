@@ -6,7 +6,7 @@ In this project, the capabilities of the open-source embedded computing platform
 
 Portfolio for project can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf) file.
 
-Video for project can be found in [TrashKIT_Gizmo.mp4](TrashKIT_Gizmo.mp4) file.
+Video for project can be found in [TrashKIT_Gizmo.mp4](TrashKIT_Gizmo.mp4.zip) file.
 
 Bela code for project can be found in [Bela](Bela) folder.
 
