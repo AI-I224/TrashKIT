@@ -5,8 +5,11 @@ In this project, the capabilities of the open-source embedded computing platform
 ## Content
 
 Portfolio for project can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf) file.
+
 Video for project can be found in [TrashKIT_Gizmo.mp4](TrashKIT_Gizmo.mp4) file.
+
 Bela code for project can be found in [Bela](Bela) folder.
+
 Python scripts for OpenCV and OSC can be found in [python_scripts](python_scripts) folder.
 
 - [Prerequisites](https://github.com/hillaryfraley/TrashKIT#prerequisites)
