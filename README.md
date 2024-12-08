@@ -4,7 +4,9 @@ In this project, the capabilities of the open-source embedded computing platform
 
 ## Content
 
-Portfolio for project can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf).
+Portfolio for project can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf) file.
+Bela code for project can be found in [Bela](Bela) folder.
+Python scripts for OpenCV and OSC can be found in [python_scripts](python_scripts) folder.
 
 - [Prerequisites](https://github.com/hillaryfraley/TrashKIT#prerequisites)
   - [Hardware Components](https://github.com/hillaryfraley/TrashKIT#hardware-components)
@@ -66,7 +68,7 @@ Activate the virtual environment
 source venv/bin/activate
 ```
 
-Install the necessary libraries
+Open python_scripts folder and install the necessary libraries
 
 ```
 pip install -r requirements.txt
@@ -87,7 +89,7 @@ Process of building the embedded user-interaction system within TrashKIT and Bel
 ### Steps
 
 1. Plug in the Bela to your laptop and open the Bela IDE
-2. Drag the GizmoV1.zip folder into the Bela IDE to download the project onto your Bela
+2. Drag the GizmoV1.zip file in the Bela folder into the Bela IDE to download the project onto your Bela
 3. Wire the electronics for the embedded system
 
 **NOTE**: Make sure to update the I/O pin numbers for the DC motors and stepper motors for your own Bela (if necessary).
@@ -98,7 +100,7 @@ Test to ensure that OSC client communication has been established between the Be
 
 ### Break down into OSC test
 
-Run osc_test.py to test OSC implementation
+Open python_scripts folder and run osc_test.py to test OSC implementation
 
 ```
 python3 osc_test.py
