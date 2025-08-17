@@ -1,10 +1,12 @@
 # Bela Project: TrashKIT
 
+![TrashKIT](assets/trashkit.png)
+
 In this project, the capabilities of the open-source embedded computing platform, Bela were utilised to create an interactive drum kit using an assortment of upcycled materials. The product employs OpenCV and Google's HandGestureClasssifier to analyse users' hand movements and translate them into real-time actions that trigger various actions equipped with sound capabilities.
 
 ## Content
 
-Portfolio for project can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf) file.
+Portfolio for further project detail can be found in [TrashKIT_Portfolio.pdf](TrashKIT_Portfolio.pdf) file.
 
 Bela code for project can be found in [Bela](Bela) folder.
 
@@ -43,6 +45,10 @@ These instructions will describe the process of building the project from the gr
 - Small Breadboard
 - Logitech C270 Webcam
 - Wires
+
+### Electronic Circuit:
+
+![Electronics of TrashKIT](assets/schematics.png)
 
 ### Software Components:
 
